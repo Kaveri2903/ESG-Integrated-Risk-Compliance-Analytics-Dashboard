@@ -1,4 +1,4 @@
-# ESG-Integrated-Risk-Compliance-Analytics-Dashboard
+# ESG-Integrated-Risk-Compliance-Analytics-Dashboard For Financial Institutions
 
 ![ESG main Dashboard](https://github.com/user-attachments/assets/4767391e-0ae6-4d6e-ad88-3470e260dde2)
 
